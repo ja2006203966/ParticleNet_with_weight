@@ -3,6 +3,7 @@ The ParticleNet model is stored in "tf_keras_model.py".
 
 You can use .txt file as input.
 The input format(for example):
+
 \n
 jet1_e \t jet1_pt \t jet1_eta \t jet1_phi \t jet1_number_of_constituents
 \n
