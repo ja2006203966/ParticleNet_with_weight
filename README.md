@@ -1,7 +1,8 @@
 # ParticleNet_with_weight
 The ParticleNet model is stored in "tf_keras_model.py".
 
-You can use .txt file as input.
+You can use .txt.gz file as input.
+Input file :https://drive.google.com/drive/folders/1SZgxTqax7sZeGzYCAHUUj8yycbbDXScC
 The input format(for example):
 
 \n
